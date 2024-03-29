@@ -12,7 +12,7 @@ def main():
     # Assuming you create instances of each level
     level1 = pacman()
 
-    level1.play_game()  # Start with the first level
+    level1.play_game()  # Start level
 
 
 if __name__ == "__main__":
